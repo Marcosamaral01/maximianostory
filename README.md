@@ -1,2 +1,3 @@
 # maximianostory
-venda com a melhor do mundo
+Compras especiais com preços especias.
+
